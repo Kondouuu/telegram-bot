@@ -1,4 +1,3 @@
-pip install aiogram googletrans==4.0.0-rc1
 import logging
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message
